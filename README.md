@@ -1,3 +1,1 @@
-# weather
 
-![WEATHER](/weather.PNG)
